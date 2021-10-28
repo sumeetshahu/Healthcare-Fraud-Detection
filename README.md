@@ -12,7 +12,7 @@ This is a binary classification problem. Using data of inpatient claims, outpati
   <li>No strict latency concerns.</li>
 <li>Model interpretability is important. A probability of the provider being a fraud can be provided to make a more informed decision.</li>
 </ul>
-<br>
+
 <b> Performance Metrics </b>
 <ul>
   <li> Recall </li>
@@ -20,7 +20,7 @@ This is a binary classification problem. Using data of inpatient claims, outpati
   <li> F1 Score </li>
   <li> AUC Score </li>
 </ul>
-<br><br>
+
 Technical Blog: https://medium.com/@shahusumeet/healthcare-provider-fraud-detection-d54138a3b098
 <br>
 Web Application link: https://healthcare-fraud-detection.herokuapp.com/
